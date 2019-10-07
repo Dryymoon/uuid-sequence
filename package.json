@@ -1,0 +1,25 @@
+{
+  "name": "uuid-sequential",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dryymoon/uuid-sequential.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dryymoon/uuid-sequential/issues"
+  },
+  "homepage": "https://github.com/Dryymoon/uuid-sequential#readme",
+  "dependencies": {
+    "browser-or-node": "^1.2.1",
+    "crypto-random-string": "^3.0.1",
+    "macaddress": "^0.2.9",
+    "uuid": "^3.3.3"
+  }
+}
