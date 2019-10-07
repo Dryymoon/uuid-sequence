@@ -1,6 +1,6 @@
 # uuid #
 
-Simple, fast generation of [RFC4122](http://www.ietf.org/rfc/rfc4122.txt) UUIDS.
+UUIDS generator for databases.
 
 It’s good to generate GUIDs **for databases**, since variability increases from start to end of line, unlike other wyd generators in which variability decreases from start to end of line.
 
