@@ -1,8 +1,8 @@
 {
   "name": "uuid-sequential",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "uuid-sequential.js",
   "scripts": {
     "test": "node ./test.js"
   },
@@ -19,7 +19,9 @@
   "dependencies": {
     "browser-or-node": "^1.2.1",
     "crypto-random-string": "^3.0.1",
+    "fingerprintjs2": "^2.1.0",
     "macaddress": "^0.2.9",
+    "object-hash": "^2.0.3",
     "uuid": "^3.3.3"
   },
   "keywords": [
